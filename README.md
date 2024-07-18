@@ -2,6 +2,16 @@
 
 ### clone project ini
 
+```bash
+git clone https://github.com/FerryDwiZ12/test-PTBA.git
+```
+
+### install package Client
+
+```bash
+npm install
+```
+
 ### untuk Client jalankan dengan comment
 
 ```bash
@@ -22,6 +32,12 @@ DATABASE_URL="postgresql://postgres:password@localhost:5432/tokoku?schema=public
 
 ```bash
 npx prisma db push
+```
+
+### install package Server
+
+```bash
+npm install
 ```
 
 ### untuk Server jalankan dengan comment
